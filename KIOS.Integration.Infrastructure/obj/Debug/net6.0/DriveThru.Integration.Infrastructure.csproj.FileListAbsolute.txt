@@ -1,0 +1,15 @@
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\bin\Debug\net6.0\DriveThru.Integration.Infrastructure.deps.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\bin\Debug\net6.0\DriveThru.Integration.Infrastructure.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\bin\Debug\net6.0\DriveThru.Integration.Infrastructure.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\bin\Debug\net6.0\DriveThru.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\bin\Debug\net6.0\DriveThru.Integration.Core.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.csproj.AssemblyReference.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.AssemblyInfoInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.AssemblyInfo.cs
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.csproj.CopyComplete
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\refint\DriveThru.Integration.Infrastructure.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\DriveThru.Integration.Infrastructure.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Infrastructure\obj\Debug\net6.0\ref\DriveThru.Integration.Infrastructure.dll

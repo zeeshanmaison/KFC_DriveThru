@@ -1,0 +1,48 @@
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.deps.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\refint\KIOS.Integration.Core.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\ref\KIOS.Integration.Core.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.deps.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.AssemblyReference.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfoInputs.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfo.cs
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.CoreCompileInputs.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\refint\KIOS.Integration.Core.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\ref\KIOS.Integration.Core.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.deps.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.AssemblyReference.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfoInputs.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfo.cs
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.CoreCompileInputs.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\refint\KIOS.Integration.Core.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Core\obj\Debug\net6.0\ref\KIOS.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.deps.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.AssemblyReference.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfoInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.AssemblyInfo.cs
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.csproj.CoreCompileInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\refint\KIOS.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Debug\net6.0\ref\KIOS.Integration.Core.dll

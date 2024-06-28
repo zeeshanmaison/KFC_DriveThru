@@ -1,0 +1,400 @@
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.exe
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.deps.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.runtimeconfig.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\JWT.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.KIOS.Integration.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.KIOS.Integration.Web.props
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KIOS.Integration.Web.props
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KIOS.Integration.Web.props
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\scopedcss\bundle\KIOS.Integration.Web.styles.css
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CopyComplete
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\refint\KIOS.Integration.Web.dll
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.pdb
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\ref\KIOS.Integration.Web.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.exe
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.deps.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.runtimeconfig.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Core.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Identity.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\JWT.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Text.Json.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.AssemblyReference.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfoInputs.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfo.cs
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CoreCompileInputs.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.KIOS.Integration.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.KIOS.Integration.Web.props
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KIOS.Integration.Web.props
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KIOS.Integration.Web.props
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\scopedcss\bundle\KIOS.Integration.Web.styles.css
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CopyComplete
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\refint\KIOS.Integration.Web.dll
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.pdb
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.genruntimeconfig.cache
+D:\Maison_Code\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\ref\KIOS.Integration.Web.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.exe
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.deps.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.runtimeconfig.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\JWT.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.AssemblyReference.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfoInputs.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfo.cs
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CoreCompileInputs.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.KIOS.Integration.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.KIOS.Integration.Web.props
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KIOS.Integration.Web.props
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KIOS.Integration.Web.props
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\scopedcss\bundle\KIOS.Integration.Web.styles.css
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CopyComplete
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\refint\KIOS.Integration.Web.dll
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.pdb
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.genruntimeconfig.cache
+C:\USman Khan\KIOS_Integration\KIOS.Integration.Web\obj\Debug\net6.0\ref\KIOS.Integration.Web.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\appsettings.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.exe
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.deps.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.runtimeconfig.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Web.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\JWT.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Application.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Core.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.DTO.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\bin\Debug\net6.0\KIOS.Integration.Infrastructure.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.AssemblyReference.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfoInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.AssemblyInfo.cs
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CoreCompileInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.KIOS.Integration.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.KIOS.Integration.Web.props
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.KIOS.Integration.Web.props
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.KIOS.Integration.Web.props
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\scopedcss\bundle\KIOS.Integration.Web.styles.css
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.csproj.CopyComplete
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\refint\KIOS.Integration.Web.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\KIOS.Integration.Web.genruntimeconfig.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Web\obj\Debug\net6.0\ref\KIOS.Integration.Web.dll

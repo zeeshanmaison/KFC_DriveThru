@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DriveThru.Integration.Web.props" />
+</Project>

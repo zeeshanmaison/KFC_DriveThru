@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Converters\RetailTransactionConverter.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KIOS.Integration.Core\DriveThru.Integration.Core.csproj" />
+    <ProjectReference Include="..\KIOS.Integration.Infrastructure\DriveThru.Integration.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

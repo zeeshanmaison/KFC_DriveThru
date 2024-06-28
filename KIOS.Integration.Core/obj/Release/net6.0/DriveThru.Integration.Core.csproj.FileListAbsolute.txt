@@ -1,0 +1,12 @@
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\bin\Release\net6.0\DriveThru.Integration.Core.deps.json
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\bin\Release\net6.0\DriveThru.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\bin\Release\net6.0\DriveThru.Integration.Core.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.csproj.AssemblyReference.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.AssemblyInfoInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.AssemblyInfo.cs
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.csproj.CoreCompileInputs.cache
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\refint\DriveThru.Integration.Core.dll
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\DriveThru.Integration.Core.pdb
+C:\USman Khan\DrivThru _Integration\KIOS.Integration.Core\obj\Release\net6.0\ref\DriveThru.Integration.Core.dll
